@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bladerunnerforthemoment
-- 👀 I’m interested in #cloud #automation #ai #projectmanagement #leadership
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on any project or volounteer activities
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=theendofline&show_icons=true&theme=dracula)](https://github.com/theendofline/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theendofline&layout=compact)
+
 
 <!---
 bladerunnerforthemoment/bladerunnerforthemoment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
